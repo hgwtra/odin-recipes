@@ -1,0 +1,1 @@
+The Odin Project: I am going to build a basic recipe website with my very little knowledge of HTML. The website will consist of a main index page which will have links to a few recipes and it won’t look very pretty (for now). 
